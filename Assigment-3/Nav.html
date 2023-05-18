@@ -1,0 +1,55 @@
+
+ <!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+  <script>
+    // Create the navigation bar container element
+    var navBar = document.createElement('nav');
+    
+    // Create the Home link element
+    var homeLink = document.createElement('a');
+    homeLink.textContent = 'Home';
+    homeLink.href = '#';
+    
+    // Create the Contact Us link element
+    var contactLink = document.createElement('a');
+    contactLink.textContent = 'Contact Us';
+    contactLink.href = '#';
+    
+    // Create the Sign Up link element
+    var AboutLink = document.createElement('a');
+    AboutLink.textContent = 'About';
+    AboutLink.href = '#';
+    
+    // Create the Sign In link element
+    var GalleryLink = document.createElement('a');
+    GalleryLink.textContent = 'Gallery';
+    GalleryLink.href = '#';
+    
+    // Apply styling to the navigation bar and link elements
+    navBar.style.backgroundColor = '#000000';
+    navBar.style.padding = '10px';
+    navBar.style.display = 'flex';
+    navBar.style.justifyContent = 'space-around';
+    
+    var links = [homeLink, contactLink, AboutLink, GalleryLink];
+    links.forEach(function(link)
+ {
+      link.style.marginRight = '10px';
+      link.style.textDecoration = 'none';
+      link.style.color = '#FFFFFF';
+    });
+    
+    // Append the link elements to the navigation bar
+    links.forEach(function(link)
+   {
+      navBar.appendChild(link);
+    });
+    
+    // Append the navigation bar to the body element
+    document.body.appendChild(navBar);
+  </script>
+</body>
+</html>
