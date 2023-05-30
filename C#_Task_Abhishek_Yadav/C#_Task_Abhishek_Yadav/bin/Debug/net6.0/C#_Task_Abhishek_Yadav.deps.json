@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#_Task_Abhishek_Yadav/1.0.0": {
+        "runtime": {
+          "C#_Task_Abhishek_Yadav.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_Task_Abhishek_Yadav/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

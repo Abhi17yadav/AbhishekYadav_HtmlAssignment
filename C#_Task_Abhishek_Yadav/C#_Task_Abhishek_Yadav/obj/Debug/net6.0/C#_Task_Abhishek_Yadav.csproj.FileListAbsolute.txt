@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\bin\Debug\net6.0\C#_Task_Abhishek_Yadav.exe
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\bin\Debug\net6.0\C#_Task_Abhishek_Yadav.deps.json
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\bin\Debug\net6.0\C#_Task_Abhishek_Yadav.runtimeconfig.json
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\bin\Debug\net6.0\C#_Task_Abhishek_Yadav.dll
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\bin\Debug\net6.0\C#_Task_Abhishek_Yadav.pdb
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\obj\Debug\net6.0\C#_Task_Abhishek_Yadav.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\obj\Debug\net6.0\C#_Task_Abhishek_Yadav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\obj\Debug\net6.0\C#_Task_Abhishek_Yadav.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\obj\Debug\net6.0\C#_Task_Abhishek_Yadav.AssemblyInfo.cs
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\obj\Debug\net6.0\C#_Task_Abhishek_Yadav.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\obj\Debug\net6.0\C#_Task_Abhishek_Yadav.dll
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\obj\Debug\net6.0\refint\C#_Task_Abhishek_Yadav.dll
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\obj\Debug\net6.0\C#_Task_Abhishek_Yadav.pdb
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\obj\Debug\net6.0\C#_Task_Abhishek_Yadav.genruntimeconfig.cache
+C:\Users\user\source\repos\C#_Task_Abhishek_Yadav\C#_Task_Abhishek_Yadav\obj\Debug\net6.0\ref\C#_Task_Abhishek_Yadav.dll
